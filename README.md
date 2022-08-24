@@ -7,6 +7,7 @@ Sentiment analyzer using the IMDb database. This project was developed during Al
 ## Libraries used
 - pandas
 - scikit-learn (sklearn)
+- wordcloud
 
 ## References
 - [scikit-learn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
