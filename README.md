@@ -12,3 +12,4 @@ Sentiment analyzer using the IMDb database. This project was developed during Al
 ## References
 - [scikit-learn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [IMDb database in Portuguese](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr?resource=download)
+- [List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
