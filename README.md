@@ -9,6 +9,7 @@ Sentiment analyzer using the IMDb database. This project was developed during Al
 - scikit-learn (sklearn)
 - wordcloud
 - NLTK
+- seaborn
 
 ## References
 - [scikit-learn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
